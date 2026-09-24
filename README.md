@@ -19,7 +19,8 @@ https://github.com/Rumi-Parvez/Saff-Championship-2026
 <p align="center">
   <img 
     src="https://i.postimg.cc/h4w6FQXS/2.png" 
-    alt="Dev Stack Builder Main Preview" 
+    alt="SAFF Football Championship
+ banner" 
     width="100%" 
   />
 </p>
