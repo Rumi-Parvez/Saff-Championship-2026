@@ -16,16 +16,13 @@ https://github.com/Rumi-Parvez/Saff-Championship-2026
 
 ---
 
-## 📸 Project Screenshot
-
-Add a screenshot of the project to the repository and display it here:
-
-```md
-![SAFF Football Championship Screenshot](./screenshot.png)
-```
-
-> For the best presentation, use a screenshot showing the main navigation, hero section, teams/players, and the primary football content.
-
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/h4w6FQXS/2.png" 
+    alt="Dev Stack Builder Main Preview" 
+    width="100%" 
+  />
+</p>
 ---
 
 ## 🏆 Project Overview
